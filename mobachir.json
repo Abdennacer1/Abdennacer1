@@ -1,0 +1,13 @@
+{"MyData":{
+  "AdsIDs":{
+     "bannerID" : "YOUR_BANNER_ID",
+     "interID"  : "YOUR_INTERSTITIAL_ID",
+     "nativeID" : "YOUR_NATIVE_ID",
+     "showIMG"  : true,
+     "imgURL"   : "www.your_img_url.com",
+     "offerURL" : "www.your_CPA_offer_url.com"
+    }
+    
+  }
+
+}
